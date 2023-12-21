@@ -1,4 +1,4 @@
-void main(List<String> args) {
+void main() {
   var list = ['Andi', 'Udin', 'Bagas'];
 
   for (var name in list) {
