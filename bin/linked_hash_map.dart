@@ -1,6 +1,7 @@
 import 'dart:collection';
 
 void main() {
+  // ignore: prefer_collection_literals
   final scores = LinkedHashMap<String, int>();
   scores['Eko'] = 100;
   scores['Budi'] = 200;
